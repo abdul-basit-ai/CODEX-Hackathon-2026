@@ -1,0 +1,25 @@
+# Secrets and local environment files
+**/.env
+**/.env.*
+**/*.pem
+**/*.key
+
+# Dependencies and generated output
+**/node_modules/
+**/.output/
+**/dist/
+**/.nitro/
+**/.netlify/
+**/.wrangler/
+**/coverage/
+**/test-results/
+**/playwright-report/
+**/*.log
+
+# Nested repository metadata and local service state
+**/.git/
+**/.openai/
+
+# Private planning documents
+**/plan.md
+**/*-plan.md
