@@ -93,4 +93,3 @@ In both cases, define spoken state summaries and turn/event announcements alongs
 ## Provenance and scope
 
 Open-source source material and licenses are listed in [`GAME/THIRD_PARTY_NOTICES.md`](GAME/THIRD_PARTY_NOTICES.md). The Intercept uses an authored Ink story; Ludo's computer policy is a local implementation, with source research noted there. This is a playable prototype and an architecture for further games. The current server game store is process-local, and live voice quality depends on the browser and provider environment.
-
